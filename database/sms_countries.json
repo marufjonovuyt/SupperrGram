@@ -1,0 +1,1562 @@
+{
+  "next_id": 174,
+  "rows": [
+    {
+      "id": 1,
+      "code": "CO",
+      "name": "CO",
+      "base_price": 4824,
+      "sell_price": 5324,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 2,
+      "code": "IN",
+      "name": "🇮🇳 Hindiston",
+      "base_price": 5628,
+      "sell_price": 6128,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 3,
+      "code": "BD",
+      "name": "BD",
+      "base_price": 5628,
+      "sell_price": 6128,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 4,
+      "code": "US",
+      "name": "🇺🇸 AQSH",
+      "base_price": 5628,
+      "sell_price": 6128,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 5,
+      "code": "CA",
+      "name": "CA",
+      "base_price": 6432,
+      "sell_price": 6932,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 6,
+      "code": "ID",
+      "name": "🇮🇩 Indoneziya",
+      "base_price": 6432,
+      "sell_price": 6932,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 7,
+      "code": "PK",
+      "name": "PK",
+      "base_price": 7236,
+      "sell_price": 7736,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 8,
+      "code": "MM",
+      "name": "MM",
+      "base_price": 7236,
+      "sell_price": 7736,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 9,
+      "code": "CL",
+      "name": "CL",
+      "base_price": 7236,
+      "sell_price": 7736,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 10,
+      "code": "AO",
+      "name": "AO",
+      "base_price": 7718,
+      "sell_price": 8218,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 11,
+      "code": "IR",
+      "name": "IR",
+      "base_price": 8040,
+      "sell_price": 8540,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 12,
+      "code": "SD",
+      "name": "SD",
+      "base_price": 8040,
+      "sell_price": 8540,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 13,
+      "code": "ZW",
+      "name": "ZW",
+      "base_price": 8040,
+      "sell_price": 8540,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 14,
+      "code": "TH",
+      "name": "TH",
+      "base_price": 8040,
+      "sell_price": 8540,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 15,
+      "code": "MG",
+      "name": "MG",
+      "base_price": 8040,
+      "sell_price": 8540,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 16,
+      "code": "AF",
+      "name": "AF",
+      "base_price": 8844,
+      "sell_price": 9344,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 17,
+      "code": "DZ",
+      "name": "DZ",
+      "base_price": 8844,
+      "sell_price": 9344,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 18,
+      "code": "TG",
+      "name": "TG",
+      "base_price": 8844,
+      "sell_price": 9344,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 19,
+      "code": "TZ",
+      "name": "TZ",
+      "base_price": 8844,
+      "sell_price": 9344,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 20,
+      "code": "PR",
+      "name": "PR",
+      "base_price": 9648,
+      "sell_price": 10148,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 21,
+      "code": "SZ",
+      "name": "SZ",
+      "base_price": 9648,
+      "sell_price": 10148,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 22,
+      "code": "BF",
+      "name": "BF",
+      "base_price": 9648,
+      "sell_price": 10148,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 23,
+      "code": "LK",
+      "name": "LK",
+      "base_price": 9648,
+      "sell_price": 10148,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 24,
+      "code": "UG",
+      "name": "UG",
+      "base_price": 9648,
+      "sell_price": 10148,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 25,
+      "code": "CG",
+      "name": "CG",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 26,
+      "code": "PE",
+      "name": "PE",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 27,
+      "code": "UZ",
+      "name": "🇺🇿 O'zbekiston",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 28,
+      "code": "AR",
+      "name": "AR",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 29,
+      "code": "MA",
+      "name": "MA",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 30,
+      "code": "CD",
+      "name": "CD",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 31,
+      "code": "MX",
+      "name": "MX",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 32,
+      "code": "CR",
+      "name": "CR",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 33,
+      "code": "TD",
+      "name": "TD",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 34,
+      "code": "DO",
+      "name": "DO",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 35,
+      "code": "CU",
+      "name": "CU",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 36,
+      "code": "NI",
+      "name": "NI",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 37,
+      "code": "BW",
+      "name": "BW",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 38,
+      "code": "MU",
+      "name": "MU",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 39,
+      "code": "IL",
+      "name": "IL",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 40,
+      "code": "JE",
+      "name": "JE",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 41,
+      "code": "GN",
+      "name": "GN",
+      "base_price": 10452,
+      "sell_price": 10952,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 42,
+      "code": "BR",
+      "name": "🇧🇷 Braziliya",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 43,
+      "code": "GB",
+      "name": "🇬🇧 Angliya",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:28"
+    },
+    {
+      "id": 44,
+      "code": "MY",
+      "name": "🇲🇾 Malayziya",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 45,
+      "code": "CN",
+      "name": "CN",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 46,
+      "code": "NA",
+      "name": "NA",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 47,
+      "code": "HN",
+      "name": "HN",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 48,
+      "code": "VN",
+      "name": "🇻🇳 Vetnam",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 49,
+      "code": "TJ",
+      "name": "🇹🇯 Tojikiston",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 50,
+      "code": "SO",
+      "name": "SO",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 51,
+      "code": "MQ",
+      "name": "MQ",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 52,
+      "code": "ML",
+      "name": "ML",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 53,
+      "code": "GG",
+      "name": "GG",
+      "base_price": 11256,
+      "sell_price": 11756,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 54,
+      "code": "SA",
+      "name": "SA",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 55,
+      "code": "KH",
+      "name": "KH",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 56,
+      "code": "GT",
+      "name": "GT",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 57,
+      "code": "HT",
+      "name": "HT",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 58,
+      "code": "UY",
+      "name": "UY",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 59,
+      "code": "CV",
+      "name": "CV",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 60,
+      "code": "IE",
+      "name": "IE",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 61,
+      "code": "GM",
+      "name": "GM",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 62,
+      "code": "HR",
+      "name": "HR",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 63,
+      "code": "VI",
+      "name": "VI",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 64,
+      "code": "SN",
+      "name": "SN",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 65,
+      "code": "AI",
+      "name": "AI",
+      "base_price": 12060,
+      "sell_price": 12560,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 66,
+      "code": "TN",
+      "name": "TN",
+      "base_price": 12864,
+      "sell_price": 13364,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 67,
+      "code": "TT",
+      "name": "TT",
+      "base_price": 12864,
+      "sell_price": 13364,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 68,
+      "code": "DJ",
+      "name": "DJ",
+      "base_price": 12864,
+      "sell_price": 13364,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 69,
+      "code": "GU",
+      "name": "GU",
+      "base_price": 12864,
+      "sell_price": 13364,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 70,
+      "code": "KM",
+      "name": "KM",
+      "base_price": 12864,
+      "sell_price": 13364,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 71,
+      "code": "LR",
+      "name": "LR",
+      "base_price": 12864,
+      "sell_price": 13364,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 72,
+      "code": "KN",
+      "name": "KN",
+      "base_price": 12864,
+      "sell_price": 13364,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 73,
+      "code": "GD",
+      "name": "GD",
+      "base_price": 12864,
+      "sell_price": 13364,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 74,
+      "code": "EE",
+      "name": "EE",
+      "base_price": 12864,
+      "sell_price": 13364,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 75,
+      "code": "GY",
+      "name": "GY",
+      "base_price": 13668,
+      "sell_price": 14168,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 76,
+      "code": "LB",
+      "name": "LB",
+      "base_price": 13668,
+      "sell_price": 14168,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 77,
+      "code": "BS",
+      "name": "BS",
+      "base_price": 13668,
+      "sell_price": 14168,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 78,
+      "code": "PF",
+      "name": "PF",
+      "base_price": 13668,
+      "sell_price": 14168,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 79,
+      "code": "SV",
+      "name": "SV",
+      "base_price": 13668,
+      "sell_price": 14168,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 80,
+      "code": "PY",
+      "name": "PY",
+      "base_price": 13668,
+      "sell_price": 14168,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 81,
+      "code": "AG",
+      "name": "AG",
+      "base_price": 13668,
+      "sell_price": 14168,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 82,
+      "code": "SB",
+      "name": "SB",
+      "base_price": 13668,
+      "sell_price": 14168,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 83,
+      "code": "TO",
+      "name": "TO",
+      "base_price": 13668,
+      "sell_price": 14168,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 84,
+      "code": "EC",
+      "name": "EC",
+      "base_price": 13668,
+      "sell_price": 14168,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 85,
+      "code": "SY",
+      "name": "SY",
+      "base_price": 14472,
+      "sell_price": 14972,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 86,
+      "code": "JP",
+      "name": "JP",
+      "base_price": 14472,
+      "sell_price": 14972,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 87,
+      "code": "SE",
+      "name": "SE",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 88,
+      "code": "TR",
+      "name": "TR",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 89,
+      "code": "VE",
+      "name": "VE",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 90,
+      "code": "ST",
+      "name": "ST",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 91,
+      "code": "HK",
+      "name": "HK",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 92,
+      "code": "SC",
+      "name": "SC",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 93,
+      "code": "IT",
+      "name": "IT",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 11:48:35"
+    },
+    {
+      "id": 94,
+      "code": "LY",
+      "name": "LY",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 95,
+      "code": "RO",
+      "name": "RO",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 96,
+      "code": "LA",
+      "name": "LA",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 97,
+      "code": "ER",
+      "name": "ER",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 98,
+      "code": "LC",
+      "name": "LC",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 99,
+      "code": "PT",
+      "name": "PT",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 100,
+      "code": "GA",
+      "name": "GA",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 101,
+      "code": "TL",
+      "name": "TL",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 102,
+      "code": "CI",
+      "name": "CI",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 103,
+      "code": "MW",
+      "name": "MW",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 104,
+      "code": "AT",
+      "name": "AT",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 105,
+      "code": "WS",
+      "name": "WS",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 106,
+      "code": "VU",
+      "name": "VU",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 107,
+      "code": "KI",
+      "name": "KI",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 108,
+      "code": "FJ",
+      "name": "FJ",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 109,
+      "code": "MK",
+      "name": "MK",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 110,
+      "code": "RE",
+      "name": "RE",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 111,
+      "code": "YT",
+      "name": "YT",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 112,
+      "code": "GQ",
+      "name": "GQ",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 113,
+      "code": "VC",
+      "name": "VC",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 114,
+      "code": "DM",
+      "name": "DM",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 115,
+      "code": "BM",
+      "name": "BM",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 116,
+      "code": "SR",
+      "name": "SR",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 117,
+      "code": "PA",
+      "name": "PA",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 118,
+      "code": "ME",
+      "name": "ME",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 119,
+      "code": "FI",
+      "name": "FI",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 120,
+      "code": "GL",
+      "name": "GL",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 121,
+      "code": "SX",
+      "name": "SX",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 122,
+      "code": "CW",
+      "name": "CW",
+      "base_price": 16080,
+      "sell_price": 16580,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 123,
+      "code": "JO",
+      "name": "JO",
+      "base_price": 17688,
+      "sell_price": 18188,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 124,
+      "code": "TC",
+      "name": "TC",
+      "base_price": 17688,
+      "sell_price": 18188,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 125,
+      "code": "IM",
+      "name": "IM",
+      "base_price": 17688,
+      "sell_price": 18188,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 126,
+      "code": "KZ",
+      "name": "🇰🇿 Qozog'iston",
+      "base_price": 17688,
+      "sell_price": 18188,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 127,
+      "code": "KG",
+      "name": "🇰🇬 Qirg'iziston",
+      "base_price": 19296,
+      "sell_price": 19796,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 128,
+      "code": "FR",
+      "name": "🇫🇷 Fransiya",
+      "base_price": 19296,
+      "sell_price": 19796,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 129,
+      "code": "MV",
+      "name": "MV",
+      "base_price": 19296,
+      "sell_price": 19796,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 130,
+      "code": "GP",
+      "name": "GP",
+      "base_price": 19296,
+      "sell_price": 19796,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 131,
+      "code": "BZ",
+      "name": "BZ",
+      "base_price": 19296,
+      "sell_price": 19796,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 132,
+      "code": "CZ",
+      "name": "CZ",
+      "base_price": 19296,
+      "sell_price": 19796,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 133,
+      "code": "AM",
+      "name": "AM",
+      "base_price": 19296,
+      "sell_price": 19796,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 134,
+      "code": "RS",
+      "name": "RS",
+      "base_price": 19296,
+      "sell_price": 19796,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 135,
+      "code": "BA",
+      "name": "BA",
+      "base_price": 19296,
+      "sell_price": 19796,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 136,
+      "code": "DE",
+      "name": "🇩🇪 Germaniya",
+      "base_price": 20904,
+      "sell_price": 21404,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 137,
+      "code": "RU",
+      "name": "🇷🇺 Rossiya",
+      "base_price": 20904,
+      "sell_price": 21404,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 138,
+      "code": "ES",
+      "name": "ES",
+      "base_price": 20904,
+      "sell_price": 21404,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 139,
+      "code": "SS",
+      "name": "SS",
+      "base_price": 20904,
+      "sell_price": 21404,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 140,
+      "code": "MD",
+      "name": "MD",
+      "base_price": 20904,
+      "sell_price": 21404,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 141,
+      "code": "MT",
+      "name": "MT",
+      "base_price": 20904,
+      "sell_price": 21404,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 142,
+      "code": "AW",
+      "name": "AW",
+      "base_price": 20904,
+      "sell_price": 21404,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 143,
+      "code": "AL",
+      "name": "AL",
+      "base_price": 20904,
+      "sell_price": 21404,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 144,
+      "code": "AZ",
+      "name": "AZ",
+      "base_price": 22512,
+      "sell_price": 23012,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 145,
+      "code": "BE",
+      "name": "BE",
+      "base_price": 22512,
+      "sell_price": 23012,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 146,
+      "code": "GE",
+      "name": "GE",
+      "base_price": 22512,
+      "sell_price": 23012,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 147,
+      "code": "XK",
+      "name": "XK",
+      "base_price": 22512,
+      "sell_price": 23012,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 148,
+      "code": "OM",
+      "name": "OM",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 149,
+      "code": "LV",
+      "name": "LV",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 11:48:36"
+    },
+    {
+      "id": 150,
+      "code": "GR",
+      "name": "GR",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 151,
+      "code": "LU",
+      "name": "LU",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 152,
+      "code": "NC",
+      "name": "NC",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 153,
+      "code": "PM",
+      "name": "PM",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 154,
+      "code": "AS",
+      "name": "AS",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 155,
+      "code": "VG",
+      "name": "VG",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 156,
+      "code": "LT",
+      "name": "LT",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 157,
+      "code": "CY",
+      "name": "CY",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 158,
+      "code": "NZ",
+      "name": "NZ",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 159,
+      "code": "KY",
+      "name": "KY",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 160,
+      "code": "GF",
+      "name": "GF",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 161,
+      "code": "BO",
+      "name": "BO",
+      "base_price": 24120,
+      "sell_price": 24620,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 162,
+      "code": "NO",
+      "name": "NO",
+      "base_price": 25728,
+      "sell_price": 26228,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 163,
+      "code": "AU",
+      "name": "AU",
+      "base_price": 27336,
+      "sell_price": 27836,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 164,
+      "code": "KW",
+      "name": "KW",
+      "base_price": 28140,
+      "sell_price": 28640,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 165,
+      "code": "DK",
+      "name": "DK",
+      "base_price": 28140,
+      "sell_price": 28640,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 166,
+      "code": "MO",
+      "name": "MO",
+      "base_price": 28140,
+      "sell_price": 28640,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 167,
+      "code": "TW",
+      "name": "TW",
+      "base_price": 30552,
+      "sell_price": 31052,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 168,
+      "code": "IQ",
+      "name": "IQ",
+      "base_price": 32160,
+      "sell_price": 32660,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 169,
+      "code": "AE",
+      "name": "AE",
+      "base_price": 32160,
+      "sell_price": 32660,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 170,
+      "code": "UA",
+      "name": "🇺🇦 Ukraina",
+      "base_price": 32160,
+      "sell_price": 32660,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 171,
+      "code": "BN",
+      "name": "BN",
+      "base_price": 40200,
+      "sell_price": 40700,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 172,
+      "code": "BH",
+      "name": "BH",
+      "base_price": 48240,
+      "sell_price": 48740,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    },
+    {
+      "id": 173,
+      "code": "NU",
+      "name": "NU",
+      "base_price": 48240,
+      "sell_price": 48740,
+      "active": 1,
+      "updated_at": "2026-09-30 12:02:29"
+    }
+  ]
+}

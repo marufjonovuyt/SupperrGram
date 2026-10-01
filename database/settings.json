@@ -1,0 +1,20 @@
+{
+  "bot_status": "on",
+  "checkout_api_key": "",
+  "fragment_api_key": "5a16ed320f97f20a4076bbf1d2e2fc359c7bcd0d",
+  "coindrop_api_key": "cd_b6608c4e86a98d52c47df80c32eb9c74ef74f3d3a4d007d2",
+  "cheapsmm_api_key": "063f987e7e0c716f8b053f8fe4f17ac7",
+  "fragment_markup_uzs": "350",
+  "number_markup_uzs": "500",
+  "gift_markup_uzs": "1000",
+  "usd_to_uzs": "12700",
+  "gram_buy_admin": "",
+  "gram_sell_admin": "",
+  "stars_sell_admin": "",
+  "channel_sell_admin": "",
+  "nft_sell_admin": "",
+  "webapp_url": "https://c578.coresuz.ru/webapp/pubg/index.html",
+  "bot_stars_balance": "0",
+  "maintenance_text": "🛠 Bot vaqtincha texnik ishlar olib borilmoqda.\nIltimos, birozdan so'ng qayta urinib ko'ring.",
+  "card_last4": "1234"
+}

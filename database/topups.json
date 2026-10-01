@@ -1,0 +1,61 @@
+{
+  "next_id": 8,
+  "rows": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "amount": 1000,
+      "status": "cancelled",
+      "created_at": "2026-09-30 14:14:41",
+      "paid_at": null
+    },
+    {
+      "id": 2,
+      "user_id": 1,
+      "amount": 1000,
+      "status": "cancelled",
+      "created_at": "2026-09-30 14:18:12",
+      "paid_at": null
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "amount": 1000,
+      "status": "pending",
+      "created_at": "2026-09-30 14:23:44",
+      "paid_at": null
+    },
+    {
+      "id": 4,
+      "user_id": 1,
+      "amount": 1000,
+      "status": "pending",
+      "created_at": "2026-09-30 14:59:52",
+      "paid_at": null
+    },
+    {
+      "id": 5,
+      "user_id": 5,
+      "amount": 1000,
+      "status": "cancelled",
+      "created_at": "2026-09-30 15:08:07",
+      "paid_at": null
+    },
+    {
+      "id": 6,
+      "user_id": 6,
+      "amount": 1000,
+      "status": "pending",
+      "created_at": "2026-09-30 15:11:34",
+      "paid_at": null
+    },
+    {
+      "id": 7,
+      "user_id": 8,
+      "amount": 10000,
+      "status": "pending",
+      "created_at": "2026-09-30 15:24:33",
+      "paid_at": null
+    }
+  ]
+}

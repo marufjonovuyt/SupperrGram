@@ -1,0 +1,41 @@
+{
+  "next_id": 4,
+  "rows": [
+    {
+      "id": 1,
+      "tg_id": 8231658280,
+      "username": null,
+      "first_name": "⁤bakhodirov",
+      "balance": 0,
+      "stars_pool": 0,
+      "banned": 0,
+      "state": null,
+      "created_at": "2026-10-01 05:33:00",
+      "last_seen_at": "2026-10-01 05:33:00"
+    },
+    {
+      "id": 2,
+      "tg_id": 8760149245,
+      "username": "bakhodirov",
+      "first_name": "⁤bakhodirov",
+      "balance": 0,
+      "stars_pool": 0,
+      "banned": 0,
+      "state": null,
+      "created_at": "2026-10-01 05:33:00",
+      "last_seen_at": "2026-10-01 05:33:00"
+    },
+    {
+      "id": 3,
+      "tg_id": 8754614153,
+      "username": "marufjonov_22",
+      "first_name": "22",
+      "balance": 0,
+      "stars_pool": 0,
+      "banned": 0,
+      "state": null,
+      "created_at": "2026-10-01 08:34:30",
+      "last_seen_at": "2026-10-01 08:35:10"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "next_id": 15,
+  "rows": [
+    {
+      "id": 1,
+      "gift_id": "5170145012310081615",
+      "emoji": "💝",
+      "stars": 15,
+      "price_usd": 0.241,
+      "price_uzs": 3000,
+      "sell_price_uzs": 4000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 2,
+      "gift_id": "5170233102089322756",
+      "emoji": "🧸",
+      "stars": 15,
+      "price_usd": 0.241,
+      "price_uzs": 3000,
+      "sell_price_uzs": 4000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 3,
+      "gift_id": "5170250947678437525",
+      "emoji": "🎁",
+      "stars": 25,
+      "price_usd": 0.4016,
+      "price_uzs": 5000,
+      "sell_price_uzs": 6000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 4,
+      "gift_id": "5168103777563050263",
+      "emoji": "🌹",
+      "stars": 25,
+      "price_usd": 0.4016,
+      "price_uzs": 5000,
+      "sell_price_uzs": 6000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 5,
+      "gift_id": "5170144170496491616",
+      "emoji": "🎂",
+      "stars": 50,
+      "price_usd": 0.8033,
+      "price_uzs": 10000,
+      "sell_price_uzs": 11000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 6,
+      "gift_id": "5170314324215857265",
+      "emoji": "💐",
+      "stars": 50,
+      "price_usd": 0.8033,
+      "price_uzs": 10000,
+      "sell_price_uzs": 11000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 7,
+      "gift_id": "5170564780938756245",
+      "emoji": "🚀",
+      "stars": 50,
+      "price_usd": 0.8033,
+      "price_uzs": 10000,
+      "sell_price_uzs": 11000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 8,
+      "gift_id": "6028601630662853006",
+      "emoji": "🍾",
+      "stars": 50,
+      "price_usd": 0.8033,
+      "price_uzs": 10000,
+      "sell_price_uzs": 11000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 9,
+      "gift_id": "5168043875654172773",
+      "emoji": "🏆",
+      "stars": 100,
+      "price_usd": 1.6065,
+      "price_uzs": 19900,
+      "sell_price_uzs": 20900,
+      "min_purchase_stars": 100,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 10,
+      "gift_id": "5170690322832818290",
+      "emoji": "💍",
+      "stars": 100,
+      "price_usd": 1.6065,
+      "price_uzs": 19900,
+      "sell_price_uzs": 20900,
+      "min_purchase_stars": 100,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 11,
+      "gift_id": "5170521118301225164",
+      "emoji": "💎",
+      "stars": 100,
+      "price_usd": 1.6065,
+      "price_uzs": 19900,
+      "sell_price_uzs": 20900,
+      "min_purchase_stars": 100,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 12,
+      "gift_id": "5801108895304779062",
+      "emoji": "🎁",
+      "stars": 50,
+      "price_usd": 0.8033,
+      "price_uzs": 10000,
+      "sell_price_uzs": 11000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 13,
+      "gift_id": "5969796561943660080",
+      "emoji": "🎁",
+      "stars": 50,
+      "price_usd": 0.8033,
+      "price_uzs": 10000,
+      "sell_price_uzs": 11000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    },
+    {
+      "id": 14,
+      "gift_id": "5922558454332916696",
+      "emoji": "🎄",
+      "stars": 50,
+      "price_usd": 0.8033,
+      "price_uzs": 10000,
+      "sell_price_uzs": 11000,
+      "min_purchase_stars": 50,
+      "active": 1,
+      "updated_at": "2026-09-30 17:13:35"
+    }
+  ]
+}
