@@ -1,5 +1,5 @@
 """
-api/coindrop_api.py - Yangi API uchun moslashtirilgan integratsiya
+api/coindrop_api.py - Fazer API Integratsiyasi
 """
 
 import logging
@@ -12,21 +12,18 @@ logger = logging.getLogger(__name__)
 class CoindropApi:
 
     def __init__(self, api_key: str = None):
-        # config.py ichidan yoki to'g'ridan-to'g'ri yangi api key ni o'qiydi
         self.api_key = (
             api_key
-            or config.DEFAULT_SETTINGS.get("new_api_key")  # yoki yangi kalit nomi
+            or config.DEFAULT_SETTINGS.get("new_api_key")
             or ""
         )
-        # DIQQAT: Bu yerga o'zingiz olgan yangi API'ning asosiy URL manzilini yozasiz!
-        self.base_url = "https://yangi-api-manzili.com/api/v1"
+        # DIQQAT: API manzilingizni shu yerga yozasiz
+        self.base_url = "https://reseller.fazercards.com/api/v1"
 
     def _get_headers(self) -> dict:
         return {
             "Content-Type": "application/json",
             "Accept": "application/json",
-            # Agar yangi API Bearer token talab qilsa: "Authorization": f"Bearer {self.api_key}"
-            # Agar eski kabi header orqali so'rasa: "X-API-Key": self.api_key
             "Authorization": f"Bearer {self.api_key}",
         }
 
@@ -52,9 +49,9 @@ class CoindropApi:
                             )
                     else:
                         text = await resp.text()
-                        logger.error(f"❌ Yangi API xatoligi [{resp.status}]: {text}")
+                        logger.error(f"❌ API xatoligi [{resp.status}]: {text}")
         except Exception as e:
-            logger.error(f"❌ Yangi API ga ulanishda xato: {e}")
+            logger.error(f"❌ API ga ulanishda xato: {e}")
         return []
 
     async def import_pubg_packages(self):
@@ -143,7 +140,6 @@ class CoindropApi:
                     url, json=payload, headers=headers, timeout=20
                 ) as resp:
                     res_data = await resp.json()
-                    # Yangi API'ning muvaffaqiyatli javob shartiga qarab tekshiriladi (masalan: success, status == 'ok', va hokazo)
                     if resp.status == 200 and (res_data.get("success") or res_data.get("status") == "success" or res_data.get("status") == "ok"):
                         return res_data
                     else:
@@ -152,6 +148,6 @@ class CoindropApi:
             return {"success": False, "error": str(e)}
 
 
-# Aliaslar saqlanib qolindi, shunda handlerlardagi importlar buzilmaydi
+# Aliaslar
 CheckoutApi = CoindropApi
 checkout_api = CoindropApi()
