@@ -22806,3 +22806,573 @@ HTTP/1.1 401 Unauthorized"
 2026-10-01 09:22:26,547 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
 2026-10-01 09:22:26,621 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
 2026-10-01 09:22:26,622 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:26,837 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:26,866 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:26,911 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:26,913 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:26,959 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:26,960 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:27,038 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:27,039 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:27,280 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:27,281 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:27,326 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:27,329 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:27,368 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:27,368 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:27,453 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:27,454 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:27,686 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:27,687 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:27,743 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:27,744 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:27,776 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:27,778 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:27,868 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:27,869 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:28,092 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:28,093 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:28,157 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:28,158 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:28,191 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:28,192 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:28,284 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:28,285 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:28,498 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:28,499 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:28,567 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:28,568 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:28,602 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:28,603 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:28,699 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:28,700 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:28,905 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:28,906 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:28,980 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:28,981 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:29,011 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:29,013 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:29,112 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:29,113 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:29,311 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:29,312 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:29,400 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:29,400 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:29,421 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:29,423 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:29,525 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:29,526 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:29,717 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:29,718 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:29,810 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:29,811 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:29,831 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:29,832 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:29,939 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:29,940 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:30,124 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:30,125 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:30,220 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:30,221 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:30,241 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:30,242 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:30,352 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:30,353 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:30,542 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:30,542 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:30,634 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:30,634 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:30,652 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:30,653 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:30,765 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:30,766 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:30,946 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:30,947 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:31,044 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:31,045 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:31,130 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:31,131 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:31,177 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:31,195 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:31,353 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:31,355 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:31,459 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:31,460 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:31,548 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:31,551 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:31,763 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:31,765 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:31,878 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:31,879 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:31,959 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:31,960 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:32,172 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:32,173 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:32,280 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:32,281 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:32,290 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:32,291 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:32,371 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:32,372 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:32,579 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:32,580 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:32,699 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:32,700 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:32,702 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:32,704 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:32,780 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:32,781 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:32,985 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:32,986 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:33,115 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:33,116 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:33,123 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:33,124 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:33,191 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:33,191 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:33,391 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:33,392 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:33,542 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:33,543 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:33,544 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:33,545 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:33,601 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:33,602 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:33,799 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:33,800 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:33,953 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:33,953 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:33,954 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:33,955 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:34,011 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:34,012 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:34,206 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:34,207 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:34,365 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:34,365 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:34,369 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:34,369 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:34,421 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:34,422 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:34,615 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:34,616 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:34,784 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:34,788 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:34,798 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:34,799 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:34,837 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:34,838 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:35,025 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:35,026 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:35,221 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:35,221 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:35,226 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:35,228 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:35,249 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:35,250 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:35,436 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:35,437 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:35,631 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:35,633 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:35,635 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:35,636 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:35,661 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:35,663 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:35,845 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:35,846 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,045 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,046 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,052 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,053 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,071 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,072 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,256 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,257 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,452 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,453 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,464 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,465 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,475 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,476 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,665 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,666 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,862 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,863 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,880 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,881 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:36,881 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:36,882 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:37,073 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:37,074 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:37,272 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:37,272 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:37,287 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:37,288 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:37,293 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:37,294 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:37,483 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:37,484 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:37,680 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:37,681 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:37,692 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:37,693 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:37,706 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:37,707 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:37,893 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:37,894 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:38,094 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:38,095 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:38,099 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:38,099 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:38,119 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:38,120 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:38,302 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:38,303 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:38,502 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:38,503 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:38,538 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:38,538 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:38,712 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:38,712 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:38,905 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:38,906 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:38,909 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:38,910 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:38,951 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:38,952 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:39,122 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:39,123 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:39,319 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:39,320 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:39,365 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:39,366 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:39,533 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:39,534 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:39,716 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:39,716 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:39,732 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:39,733 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:39,779 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:39,780 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:39,942 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:39,942 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:40,119 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:40,120 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:40,142 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:40,143 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:40,223 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:40,239 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:40,351 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:40,352 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:40,524 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:40,525 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:40,559 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:40,560 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:40,651 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:40,652 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:40,764 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:40,766 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:40,927 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:40,928 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:40,968 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:40,969 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:41,067 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:41,068 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:41,171 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:41,171 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:41,332 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:41,334 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:41,377 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:41,404 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:41,500 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:41,501 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:41,581 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:41,582 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:41,736 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:41,737 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:41,819 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:41,819 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:41,913 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:41,914 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:41,990 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:41,990 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:42,139 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:42,140 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:42,226 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:42,227 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:42,324 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:42,325 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:42,399 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:42,401 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:42,543 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:42,543 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:42,636 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:42,637 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:42,737 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:42,738 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:42,946 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:42,947 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:43,150 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:43,151 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:43,179 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:43,180 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:43,200 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:43,201 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:43,354 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:43,355 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:43,565 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:43,568 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:43,599 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:43,602 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:43,608 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:43,609 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:43,760 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:43,761 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:43,984 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:43,984 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:44,019 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:44,020 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:44,164 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:44,165 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:44,397 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:44,397 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:44,426 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:44,427 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:44,434 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:44,435 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:44,567 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:44,568 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:44,812 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:44,813 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:44,838 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:44,839 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:44,852 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:44,853 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:44,971 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:44,972 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:45,223 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:45,224 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:45,269 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:45,270 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:45,389 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:45,390 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:45,618 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:45,619 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:45,639 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:45,639 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:45,692 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:45,693 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:45,822 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:45,823 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,025 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,026 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,047 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,048 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,108 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,109 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,227 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,228 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,436 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,437 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,459 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,460 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,524 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,527 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,631 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,632 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,844 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,845 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,872 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,873 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:46,946 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:46,947 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:47,038 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:47,039 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:47,255 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:47,256 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:47,284 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:47,285 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:47,365 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:47,366 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:47,444 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:47,444 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:47,664 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:47,665 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:47,700 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:47,701 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:47,785 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:47,785 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:47,846 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:47,847 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:48,074 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:48,075 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:48,114 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:48,115 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:48,204 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:48,205 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:48,251 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:48,252 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:48,488 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:48,489 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:48,534 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:48,535 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:48,630 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:48,630 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:48,657 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:48,658 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:48,954 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:48,955 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:49,041 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:49,042 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:49,044 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:49,045 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:49,062 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:49,062 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:49,449 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:49,450 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:49,462 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:49,463 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:49,465 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:49,466 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:49,608 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:49,609 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:49,855 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:49,856 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:49,875 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:49,876 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:49,877 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:49,878 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:50,016 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:50,017 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:50,262 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:50,264 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:50,284 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:50,285 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:50,295 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:50,296 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:50,425 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:50,426 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:50,672 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:50,673 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:50,715 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:50,715 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:50,836 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:50,837 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:50,899 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:50,899 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:51,083 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:51,084 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:51,135 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:51,136 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:51,244 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:51,245 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:51,309 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:51,310 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:51,490 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:51,493 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:51,551 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:51,552 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:51,653 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:51,654 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:51,715 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:51,716 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:51,900 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:51,902 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:51,971 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:51,972 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:52,062 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:52,063 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:52,128 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:52,129 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:52,310 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:52,311 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:52,392 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:52,392 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:52,471 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:52,472 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:52,534 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:52,538 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:52,720 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:52,721 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:52,806 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:52,807 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:52,882 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:52,882 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:52,947 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:52,948 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:53,128 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:53,129 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:53,225 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:53,225 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:53,295 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:53,296 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:53,357 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:53,358 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:53,542 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:53,542 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:53,641 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:53,641 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:53,705 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:53,705 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:53,769 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:53,770 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:53,952 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:53,953 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:54,059 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:54,060 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:54,114 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:54,115 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:54,178 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:54,179 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:54,475 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:54,476 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:54,524 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:54,525 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:54,588 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:54,589 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:54,898 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:54,899 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:54,933 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:54,934 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:54,994 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:55,038 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:55,048 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:55,094 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:55,323 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:55,324 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:55,342 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:55,345 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:55,507 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:55,508 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:55,517 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:55,518 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:55,740 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:55,741 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:55,752 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:55,753 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:55,927 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:55,928 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:56,117 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:56,118 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:56,159 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:56,160 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:56,181 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:56,182 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:56,339 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:56,340 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:56,531 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:56,532 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:56,568 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:56,569 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:56,596 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:56,596 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:56,750 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:56,751 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:56,941 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:56,942 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:56,975 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:56,976 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:57,011 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:57,012 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
+2026-10-01 09:22:57,158 [INFO] httpx: HTTP Request: POST https://api.telegram.org/bot8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I/getUpdates "HTTP/1.1 401 Unauthorized"
+2026-10-01 09:22:57,159 [ERROR] HamyonUzRoBot: Telegram API xato (getUpdates): {'ok': False, 'error_code': 401, 'description': 'Unauthorized'}
