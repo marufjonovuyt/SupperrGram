@@ -1,5 +1,5 @@
 """
-api/coindrop_api.py - CoinDrop API v1 Rasmiy Integratsiyasi
+api/coindrop_api.py - Yangi API uchun moslashtirilgan integratsiya
 """
 
 import logging
@@ -12,22 +12,26 @@ logger = logging.getLogger(__name__)
 class CoindropApi:
 
     def __init__(self, api_key: str = None):
+        # config.py ichidan yoki to'g'ridan-to'g'ri yangi api key ni o'qiydi
         self.api_key = (
             api_key
-            or config.DEFAULT_SETTINGS.get("coindrop_api_key")
+            or config.DEFAULT_SETTINGS.get("new_api_key")  # yoki yangi kalit nomi
             or ""
         )
-        self.base_url = "https://coindrop.uz/api/v1"
+        # DIQQAT: Bu yerga o'zingiz olgan yangi API'ning asosiy URL manzilini yozasiz!
+        self.base_url = "https://yangi-api-manzili.com/api/v1"
 
     def _get_headers(self) -> dict:
         return {
             "Content-Type": "application/json",
             "Accept": "application/json",
-            "X-API-Key": self.api_key,
+            # Agar yangi API Bearer token talab qilsa: "Authorization": f"Bearer {self.api_key}"
+            # Agar eski kabi header orqali so'rasa: "X-API-Key": self.api_key
+            "Authorization": f"Bearer {self.api_key}",
         }
 
     async def get_services(self):
-        """CoinDrop v1 API orqali xizmatlarni olish"""
+        """Xizmatlarni olish"""
         url = f"{self.base_url}/services"
         headers = self._get_headers()
 
@@ -48,9 +52,9 @@ class CoindropApi:
                             )
                     else:
                         text = await resp.text()
-                        logger.error(f"❌ CoinDrop API xatoligi [{resp.status}]: {text}")
+                        logger.error(f"❌ Yangi API xatoligi [{resp.status}]: {text}")
         except Exception as e:
-            logger.error(f"❌ CoinDrop API ga ulanishda xato: {e}")
+            logger.error(f"❌ Yangi API ga ulanishda xato: {e}")
         return []
 
     async def import_pubg_packages(self):
@@ -97,7 +101,6 @@ class CoindropApi:
         logger.info(f"🎯 Jami {len(pubg_list)} ta PUBG paketi topildi.")
         return pubg_list
 
-    # --- ATRIBUT XATOSINI 100% YO'Q QILUVCHI METOD ---
     @classmethod
     async def products(cls, game_key: str = "pubg-mobile"):
         """PubgHandler to'g'ridan-to'g'ri chaqiradigan classmethod"""
@@ -114,7 +117,7 @@ class CoindropApi:
         external_ref: str = None,
         notification_url: str = None,
     ):
-        """Rasmiy POST /api/v1/orders orqali buyurtma berish"""
+        """Buyurtma berish"""
         url = f"{self.base_url}/orders"
         headers = self._get_headers()
 
@@ -140,7 +143,8 @@ class CoindropApi:
                     url, json=payload, headers=headers, timeout=20
                 ) as resp:
                     res_data = await resp.json()
-                    if resp.status == 200 and res_data.get("success"):
+                    # Yangi API'ning muvaffaqiyatli javob shartiga qarab tekshiriladi (masalan: success, status == 'ok', va hokazo)
+                    if resp.status == 200 and (res_data.get("success") or res_data.get("status") == "success" or res_data.get("status") == "ok"):
                         return res_data
                     else:
                         return {"success": False, "error": res_data}
@@ -148,6 +152,6 @@ class CoindropApi:
             return {"success": False, "error": str(e)}
 
 
-# Aliaslar
+# Aliaslar saqlanib qolindi, shunda handlerlardagi importlar buzilmaydi
 CheckoutApi = CoindropApi
 checkout_api = CoindropApi()

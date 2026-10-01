@@ -19,7 +19,7 @@ LOG_DIR.mkdir(parents=True, exist_ok=True)
 
 # ==== 2. BOT VA MAXFIY SOZLAMALAR ====
 BOT_TOKEN = os.environ.get(
-    "BOT_TOKEN", "8404752815:AAGiVYNM0CyIsh0CLQzK4AAforVJNRrC2_I"
+    "BOT_TOKEN", "8404752815:AAGuAKkoPwWM-_b9NDfob53lz9PN4RYIwnE"
 )
 BOT_USERNAME = (
     os.environ.get("BOT_USERNAME", "SuperGram_Bot").replace("@", "").strip()
