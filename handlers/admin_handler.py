@@ -7,7 +7,7 @@ from pathlib import Path
 
 from api.checkout_api import CheckoutApi
 from api.cheapsmm_api import CheapSmmApi
-from api.coindrop_api import CoindropApi
+from api.playpay_api import CoindropApi
 from api.fragment_api import FragmentApi
 from core.helpers import Helpers
 from core.json_db import JsonDb
@@ -30,15 +30,6 @@ TX_LABELS = {
     "number_buy": "📱 Nomerlar sotildi",
     "topup": "💳 Hisob to'ldirishlar",
 }
-
-
-class CheckoutApi:
-    @staticmethod
-    async def get_balance() -> dict:
-        # Checkout API kodlaringiz
-        return {"status": "success", "balance": {"uzs": 0, "usd": 0, "ton": 0}}
-
-    # Boshqa Checkout methodlari...
 
 def _now() -> str:
     return datetime.datetime.now(config.TASHKENT_TZ).strftime("%Y-%m-%d %H:%M:%S")
@@ -419,7 +410,6 @@ class AdminHandler:
         Helpers.change_balance(user_id, delta)
         Helpers.log_tx(user_id, "admin_adjust", delta, "success", {"by_admin": True})
         
-        # O'ZGARTIRILDI: Yangi va yangilangan foydalanuvchi ma'lumotini bazadan qayta olamiz
         u = Helpers.get_user_by_id(user_id)
         
         await Telegram.answer_callback_query(cq["id"], "Bajarildi ✅")
@@ -441,7 +431,7 @@ class AdminHandler:
     def user_card(u: dict) -> str:
         return (
             "👤 <b>Foydalanuvchi ma'lumotlari</b>\n\n"
-            f"🆔 ID: <code>{u['tg_id']}</code>\n"
+            f"🆔 ID: <code>{u.get('tg_id')}</code>\n"
             f"👤 Username: {'@' + u['username'] if u.get('username') else '—'}\n"
             f"📝 Ism: {u.get('first_name') or '—'}\n"
             f"💰 Balans: <b>{Helpers.money(int(u.get('balance', 0)))}</b>\n"
@@ -451,13 +441,16 @@ class AdminHandler:
 
     @staticmethod
     def user_card_keyboard(u: dict) -> dict:
+        # Eslatma: Bazangizda asosiy identifikator 'tg_id' yoki 'id' ekanligiga e'tibor bering. 
+        # Odatda telegram botlarda tg_id ishlatiladi.
+        uid = u.get('tg_id') or u.get('id')
         return Keyboards.inline([
             [
-                Keyboards.ibtn("➕ 50 000", f"admin:uball:{u['id']}|50000", "success"),
-                Keyboards.ibtn("➖ 50 000", f"admin:usub:{u['id']}|50000", "danger")
+                Keyboards.ibtn("➕ 50 000", f"admin:uball:{uid}|50000", "success"),
+                Keyboards.ibtn("➖ 50 000", f"admin:usub:{uid}|50000", "danger")
             ],
             [
-                Keyboards.ibtn("✅ Blokdan chiqarish" if u.get("banned") else "🚫 Bloklash", f"admin:uban:{u['id']}", "danger")
+                Keyboards.ibtn("✅ Blokdan chiqarish" if u.get("banned") else "🚫 Bloklash", f"admin:uban:{uid}", "danger")
             ],
         ])
 
@@ -498,7 +491,7 @@ class AdminHandler:
         if step == "admin_stars_amount":
             amount = Helpers.parse_int(text)
             if not amount or amount < 1:
-                await Telegram.send_message(chat_id, "❗️️ To'g'ri miqdor kiriting.")
+                await Telegram.send_message(chat_id, "❗ To'g'ri miqdor kiriting.")
                 return
             Helpers.set_state(tg_id, None)
             await Telegram.send_invoice_stars(
@@ -521,7 +514,7 @@ class AdminHandler:
         if step == "admin_addgift_details":
             parts = re.split(r"\s+", text.strip())
             if len(parts) < 3:
-                await Telegram.send_message(chat_id, "❗️️ Format noto'g'ri. Misol: <code>🧸 15 3000</code>")
+                await Telegram.send_message(chat_id, "❗ Format noto'g'ri. Misol: <code>🧸 15 3000</code>")
                 return
             emoji, stars, price = parts[0], parts[1], parts[2]
             JsonDb.upsert("gifts_catalog", "gift_id", state.get("gift_id"), {

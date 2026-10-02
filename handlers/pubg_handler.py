@@ -5,7 +5,7 @@ import json
 import re
 import time
 
-from api.coindrop_api import CoindropApi
+from api.playpay_api import CoindropApi
 from core.helpers import Helpers
 from core.json_db import JsonDb
 from core.keyboards import Keyboards

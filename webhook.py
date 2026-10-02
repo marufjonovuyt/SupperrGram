@@ -24,7 +24,7 @@ from bootstrap import bootstrap
 from core.json_db import JsonDb
 from core.telegram import close_client
 from handlers.router import Router
-from api.coindrop_api import CoindropApi
+from api.playpay_api import CoindropApi
 from handlers.pubg_handler import PubgHandler
 
 logger = config.logger

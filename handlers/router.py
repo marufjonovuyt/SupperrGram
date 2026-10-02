@@ -36,7 +36,7 @@ class Router:
                 await Router._handle_callback(update["callback_query"])
             elif "pre_checkout_query" in update:
                 await Telegram.answer_pre_checkout_query(update["pre_checkout_query"]["id"], True)
-        except Exception as e:  # noqa: BLE001 - PHP versiyasi ham har qanday xatoni ushlab, logga yozadi
+        except Exception as e:
             logger.exception("Router xatosi: %s", e)
 
     @staticmethod
@@ -49,7 +49,6 @@ class Router:
         user = Helpers.get_or_create_user(from_user)
         is_admin = Helpers.is_admin(from_user["id"])
 
-        # Bot off holati (adminlarga taqiq yo'q)
         if Settings.get("bot_status", "on") != "on" and not is_admin:
             await Telegram.send_message(chat_id, Settings.get("maintenance_text"))
             return
@@ -58,12 +57,10 @@ class Router:
             await Telegram.send_message(chat_id, "🚫 Siz botdan foydalanishdan bloklangansiz.")
             return
 
-        # Telegram Stars orqali muvaffaqiyatli to'lov (bot hisobini stars bilan to'ldirish)
         if "successful_payment" in msg:
             await AdminHandler.handle_stars_payment_success(chat_id, msg["successful_payment"])
             return
 
-        # Mini-app (Pubg UC) dan kelgan ma'lumot
         if "web_app_data" in msg:
             await PubgHandler.handle_webapp_data(chat_id, user, msg["web_app_data"]["data"])
             return
@@ -83,23 +80,18 @@ class Router:
             await AdminHandler.open_panel(chat_id)
             return
 
-        # Ko'p bosqichli kirish (FSM) davom etayotgan bo'lsa
         state = Helpers.get_state(from_user["id"])
         if state and not Router._is_menu_button(text):
             await Router._route_state(chat_id, user, is_admin, state, text)
             return
 
-        # Admin panel tugmalari
         if is_admin and await Router._route_admin_menu(chat_id, user, text):
             return
 
-        # Asosiy menyu tugmalari
         await Router._route_main_menu(chat_id, user, text)
 
     @staticmethod
     def _is_menu_button(text: str) -> bool:
-        # Faqat admin panelning pastki (reply) menyusi endi matn orqali keladi -
-        # asosiy menyu esa endi inline tugmalar bo'lgani uchun matn yubormaydi.
         return text in ADMIN_MENU_BUTTONS
 
     @staticmethod
@@ -112,6 +104,8 @@ class Router:
 
         if step.startswith("topup_"):
             await BalanceHandler.handle_state(chat_id, user, state, text)
+        elif step.startswith("gram_"):
+            await GramHandler.handle_state(chat_id, user, state, text)
         elif step.startswith("stars_"):
             await StarsHandler.handle_state(chat_id, user, state, text)
         elif step.startswith("premium_"):
@@ -129,8 +123,6 @@ class Router:
 
     @staticmethod
     async def _route_main_menu(chat_id: int, user: dict, text: str) -> None:
-        """Asosiy menyu endi inline tugmalar bo'lgani uchun bu yerga matn deyarli kelmaydi -
-        faqat foydalanuvchi tasodifiy matn yozsa, unga menyuni qayta ko'rsatamiz."""
         await Telegram.send_message(chat_id, "Quyidagi menyudan kerakli bo'limni tanlang 👇", reply_markup=Keyboards.main_menu())
 
     @staticmethod
@@ -140,7 +132,7 @@ class Router:
             "💳 2. To'lovlar holati": AdminHandler.payments_report,
             "🧾 3. Checkout API": AdminHandler.checkout_api_menu,
             "🌐 4. Fragment API": AdminHandler.fragment_api_menu,
-            "🎮 5. Coindrop API": AdminHandler.coindrop_api_menu,
+            "🎮 5. PlayPay": AdminHandler.coindrop_api_menu,
             "🎁 6. Gift import": AdminHandler.gift_import_menu,
             "⭐ 7. Bot hisobini to'ldirish": AdminHandler.stars_topup_menu,
             "🔌 8. Bot ON/OFF": AdminHandler.toggle_bot_status,
@@ -185,7 +177,7 @@ class Router:
         elif scope == "topup":
             await BalanceHandler.callback(cq, chat_id, message_id, user, action, param)
         elif scope == "gram":
-            await GramHandler_callback(cq, chat_id, message_id, user, action, param)
+            await GramHandler.callback(cq, chat_id, message_id, user, action, param)
         elif scope == "stars":
             await StarsHandler.callback(cq, chat_id, message_id, user, action, param)
         elif scope == "premium":
@@ -207,13 +199,12 @@ class Router:
 
     @staticmethod
     async def _route_menu_callback(chat_id: int, user: dict, action: str | None) -> None:
-        """Asosiy menyudagi inline tugma bosilganda tegishli bo'limni ochadi."""
         if action == "topup":
             await BalanceHandler.start(chat_id, user)
         elif action == "gram_buy":
-            await GramHandler.buy(chat_id, user)
+            await GramHandler.start(chat_id, user)
         elif action == "gram_sell":
-            await GramHandler.sell(chat_id, user)
+            await GramHandler.start(chat_id, user)
         elif action == "stars_buy":
             await StarsHandler.buy_start(chat_id, user)
         elif action == "stars_sell":
@@ -234,9 +225,3 @@ class Router:
             await AccountHandler.show(chat_id, user)
         elif action == "help":
             await AccountHandler.help(chat_id)
-
-
-# GramHandler has no `callback` (it never emits inline callbacks of its own scope
-# in the original PHP either) - kept only for symmetry/documentation.
-async def GramHandler_callback(cq, chat_id, message_id, user, action, param):  # pragma: no cover
-    await Telegram.answer_callback_query(cq["id"])

@@ -73,8 +73,10 @@
     let playerName = null;
     let selectedProduct = null;
 
-    // Python FastAPI Server Manzili
-    const API_BASE = 'https://c578.coresuz.ru';
+    // MUHIM: Bu yerga NETLIFY emas, Python/FastAPI backend serveringiz turgan manzilni yozing!
+    // Agar bot va backend bitta joyda ishlayotgan bo'lsa, domen nomini yozing (masalan: https://bot.sizning-domen.uz)
+    // Agar hozircha lokal test qilayotgan bo'lsangiz: http://127.0.0.1:8000
+    const API_BASE = 'https://bot.sizning-domen.uz';
 
     async function checkId() {
       const id = document.getElementById('playerId').value.trim();
@@ -86,7 +88,6 @@
       statusEl.textContent = '⏳ Tekshirilmoqda...';
       document.getElementById('checkBtn').disabled = true;
       try {
-        // PYTHON FASTAPI ENDPOINTIGA SO'ROV YUBORILMOQDA
         const res = await fetch(`${API_BASE}/api/pubg/validate?player_id=${encodeURIComponent(id)}`);
         const data = await res.json();
         if (data.ok) {
@@ -97,30 +98,33 @@
           statusEl.innerHTML = '<span class="err">❌ ' + (data.message || 'ID topilmadi') + '</span>';
         }
       } catch (e) {
-        statusEl.innerHTML = '<span class="err">❌ Server xatosi</span>';
+        statusEl.innerHTML = '<span class="err">❌ Server bilan aloqa yo'q (Server xatosi)</span>';
       }
       document.getElementById('checkBtn').disabled = false;
     }
 
     async function loadProducts() {
-      // PYTHON FASTAPI ENDPOINTIGA SO'ROV YUBORILMOQDA
-      const res = await fetch(`${API_BASE}/api/pubg/products`);
-      const data = await res.json();
-      const wrap = document.getElementById('productsWrap');
-      const list = document.getElementById('productsList');
-      list.innerHTML = '';
-      if (data.ok && data.products.length) {
-        data.products.forEach(p => {
-          const div = document.createElement('div');
-          div.className = 'product';
-          div.innerHTML = `<span class="name">${p.name}</span><span class="price">${Number(p.sell_price_uzs).toLocaleString('ru-RU')} so'm</span>`;
-          div.onclick = () => selectProduct(p, div);
-          list.appendChild(div);
-        });
-        wrap.style.display = 'block';
-      } else {
-        list.innerHTML = '<div class="err">Hozircha paketlar mavjud emas</div>';
-        wrap.style.display = 'block';
+      try {
+        const res = await fetch(`${API_BASE}/api/pubg/products`);
+        const data = await res.json();
+        const wrap = document.getElementById('productsWrap');
+        const list = document.getElementById('productsList');
+        list.innerHTML = '';
+        if (data.ok && data.products.length) {
+          data.products.forEach(p => {
+            const div = document.createElement('div');
+            div.className = 'product';
+            div.innerHTML = `<span class="name">${p.name}</span><span class="price">${Number(p.sell_price_uzs).toLocaleString('ru-RU')} so'm</span>`;
+            div.onclick = () => selectProduct(p, div);
+            list.appendChild(div);
+          });
+          wrap.style.display = 'block';
+        } else {
+          list.innerHTML = '<div class="err">Hozircha paketlar mavjud emas</div>';
+          wrap.style.display = 'block';
+        }
+      } catch (e) {
+        document.getElementById('productsList').innerHTML = '<div class="err">Mahsulotlarni yuklab bo\'lmadi</div>';
       }
     }
 

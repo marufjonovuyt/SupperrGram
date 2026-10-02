@@ -1,5 +1,5 @@
 {
-  "next_id": 4,
+  "next_id": 8,
   "rows": [
     {
       "id": 1,
@@ -11,7 +11,7 @@
       "banned": 0,
       "state": null,
       "created_at": "2026-10-01 05:33:00",
-      "last_seen_at": "2026-10-01 05:33:00"
+      "last_seen_at": "2026-10-01 19:06:59"
     },
     {
       "id": 2,
@@ -21,9 +21,11 @@
       "balance": 0,
       "stars_pool": 0,
       "banned": 0,
-      "state": null,
+      "state": {
+        "step": "stars_amount"
+      },
       "created_at": "2026-10-01 05:33:00",
-      "last_seen_at": "2026-10-01 05:33:00"
+      "last_seen_at": "2026-10-02 12:58:11"
     },
     {
       "id": 3,
@@ -33,11 +35,60 @@
       "balance": 0,
       "stars_pool": 0,
       "banned": 0,
-      "state": {
-        "step": "pubg_player_id"
-      },
+      "state": null,
       "created_at": "2026-10-01 08:34:30",
-      "last_seen_at": "2026-10-01 09:11:16"
+      "last_seen_at": "2026-10-02 13:43:16"
+    },
+    {
+      "id": 4,
+      "tg_id": 7400541619,
+      "username": "aurex_admin",
+      "first_name": "Zuhriddin off",
+      "balance": 0,
+      "stars_pool": 0,
+      "banned": 0,
+      "state": null,
+      "created_at": "2026-10-01 19:06:59",
+      "last_seen_at": null
+    },
+    {
+      "id": 5,
+      "tg_id": 1926919176,
+      "username": "bxdrv_ucs",
+      "first_name": "1.baxodirovvv",
+      "balance": 0,
+      "stars_pool": 0,
+      "banned": 0,
+      "state": {
+        "step": "gift_username",
+        "gift_id": 1
+      },
+      "created_at": "2026-10-01 19:06:59",
+      "last_seen_at": "2026-10-01 19:09:12"
+    },
+    {
+      "id": 6,
+      "tg_id": 8637600798,
+      "username": "zaynabxon_02_07",
+      "first_name": "𝔃𝓪𝔂𝓷𝓪𝓫𝔁𝓸𝓷",
+      "balance": 0,
+      "stars_pool": 0,
+      "banned": 0,
+      "state": null,
+      "created_at": "2026-10-02 05:37:35",
+      "last_seen_at": "2026-10-02 05:38:22"
+    },
+    {
+      "id": 7,
+      "tg_id": 8760149245,
+      "username": "bakhodirov",
+      "first_name": "⁤bakhodirov",
+      "balance": 0,
+      "stars_pool": 0,
+      "banned": 0,
+      "state": null,
+      "created_at": "2026-10-02 12:57:52",
+      "last_seen_at": null
     }
   ]
 }

@@ -1,8 +1,13 @@
-"""fragment-api.uz (https://fragment-api.uz/api) - Telegram Stars va Premium"""
+"""
+fragment_api.uz (https://fragment-api.uz/api) - Telegram Stars va Premium
+"""
 from __future__ import annotations
 
 from typing import Optional
 
+import time
+import json
+from pathlib import Path
 import httpx
 
 import config
@@ -23,9 +28,11 @@ class FragmentApi:
     async def _request(endpoint: str, body: Optional[dict] = None) -> dict:
         key = Settings.get("fragment_api_key", "")
         client = _get_client()
+        # Endpoint oldidagi slashlarni to'g'rilab olamiz
+        url = config.FRAGMENT_API_URL.rstrip("/") + "/" + endpoint.lstrip("/")
         try:
             resp = await client.post(
-                config.FRAGMENT_API_URL + endpoint,
+                url,
                 json=body or {},
                 headers={"Content-Type": "application/json", "X-API-Key": key},
             )
@@ -62,8 +69,49 @@ class FragmentApi:
         return await FragmentApi._request("/wallet/balance", {})
 
     @staticmethod
+    async def wallet_calculate() -> dict:
+        """Joriy balansga qancha Stars va qaysi Premium paketlari yetishini tekshiradi"""
+        return await FragmentApi._request("/wallet/calculate", {})
+
+    @staticmethod
     def usd_to_uzs_with_markup(usd: float) -> int:
         """USD narxni so'mga aylantirib, ustiga sozlamalardagi foyda summasini qo'shadi"""
         rate = float(Settings.get("usd_to_uzs", 12700))
         markup = int(float(Settings.get("fragment_markup_uzs", 350)))
         return round(usd * rate) + markup
+
+
+
+# FragmentApi klassi ichiga yoki tashqarisiga qo'shish mumkin:
+    @staticmethod
+    async def get_ton_price() -> float | None:
+        """TON narxini CoinGecko orqali kesh bilan olish"""
+        cache_file = Path(__file__).resolve().parent / 'ton_price_cache.json'
+        cache_time = 300  # 5 daqiqa kesh
+        
+        if cache_file.exists() and (time.time() - cache_file.stat().st_mtime < cache_time):
+            try:
+                data = json.loads(cache_file.read_text(encoding='utf-8'))
+                return data.get('usd')
+            except Exception:
+                pass
+        
+        try:
+            client = _get_client()
+            resp = await client.get("https://api.coingecko.com/api/v3/simple/price?ids=the-open-network&vs_currencies=usd")
+            if resp.status_code == 200:
+                price = resp.json().get('the-open-network', {}).get('usd')
+                if price:
+                    cache_file.write_text(json.dumps({'usd': price}), encoding='utf-8')
+                    return price
+        except Exception:
+            pass
+        
+        # Agar API ishlamasa eski keshni o'qish
+        if cache_file.exists():
+            try:
+                data = json.loads(cache_file.read_text(encoding='utf-8'))
+                return data.get('usd')
+            except Exception:
+                pass
+        return None
